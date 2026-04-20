@@ -29,7 +29,6 @@ following R package best practices and golem conventions.
 - **Golem Run Tests** - Run and structure golem app tests
 - **Golem Upgrade** - Upgrade golem apps across package and structure changes
 - **Golem Fix Missing ns** - Check modules for missing `ns()`
-- **Golem Fix Missing ns Colin** - Alternate guidance for checking module namespacing
 
 ## Key Features
 

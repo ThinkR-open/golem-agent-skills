@@ -101,7 +101,7 @@ air format .
 3. Install the plugin:
 
    ```text
-   /plugin install golem-skills@thinkr
+   /plugin install golem-skills@golem-agent-skills
    ```
 
 4. Reload plugins if prompted:
@@ -126,8 +126,8 @@ air format .
 ## Remove the plugin
 
 ```text
-/plugin uninstall golem-skills@thinkr
-/plugin marketplace remove thinkr
+/plugin uninstall golem-skills@golem-agent-skills
+/plugin marketplace remove golem-agent-skills
 /reload-plugins
 ```
 
